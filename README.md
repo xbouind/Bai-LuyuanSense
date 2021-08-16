@@ -20,7 +20,7 @@ If you do decide to use ANY code from the source:
     
     Setting up a Workspace
 
-Bai LuyuanSense uses Gradle, to make sure that it is installed properly you can check Gradle's website.
+Bai LuyuanSense uses Gradle, to make sure that it is installed properly you can check Gradle's website:https://gradle.org/install/
 
     1.Clone the repository using git clone --recurse-submodules https://github.com/xbouind/Bai-LuyuanSense
     2.CD into the local repository.
